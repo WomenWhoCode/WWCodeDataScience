@@ -14,5 +14,3 @@
 **Instagram** - https://www.instagram.com/wwcodedatascience
 
 **Youtube** - https://www.youtube.com/user/WomenWhoCode
-
-**Thank you** - testing revisions
